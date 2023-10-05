@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @achiges
-- 👀 I’m interested in BackEnd (PHP, Java, Universe U2 / Pick Basic)
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in BackEnd (PHP, Java, Pick Basic, JS, TS)
+- 🌱 I’m currently learning Java / TS
 <!-- 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me albertocasanovahiges@icloud.com
 
